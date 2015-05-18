@@ -2,7 +2,7 @@
   "name": "mahGraphite",
   "version": "0.0.1",
   "description": "Simple Graphite Library",
-"author": "Jonas Nilsson <jonas@nilsson.so> (http://www.alienshop.net/)",
+  "author": "Jonas Nilsson <jonas@nilsson.so>",
 
   "homepage": "https://github.com/alienshop/mahGraphite",
   "repository": {
@@ -12,8 +12,6 @@
   "main": "./index",
   "engines": {
     "node": "*"
-  },
-    "dependencies": {
-  },
+  }
 
 }
