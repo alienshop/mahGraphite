@@ -1,5 +1,8 @@
-Nodejs Graphite Library - Now with extra Pickles!
-================================================
+Nodejs Graphite Library
+=======================
+
+Now with extra Pickles!
+
 
 Supports both string transmissions on port 2003 and pickles on port 2004. 
 
